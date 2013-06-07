@@ -9,8 +9,7 @@
 		<s:Group width="100%" height="100%">
 			<s:Label text="This is test AIR Project" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
 			<s:Label text="Left" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
-			<s:Label id="lblright" text="Right" fontWeight="bold" fontSize="22"  verticalCenter="0" horizontalCenter="{(this.width/2) - lblright.width}"/>
-			<s:Label id="lblright1" text="Right" fontWeight="bold" fontSize="22"  verticalCenter="0" horizontalCenter="{(this.width/2) - lblright.width}"/>
+			<s:Label id="lblright" text="Right" fontWeight="bold" fontSize="22"  verticalCenter="0" horizontalCenter="{(this.width/2) - lblright.width}"/>			
 		</s:Group>
 	</s:BorderContainer>
 </s:WindowedApplication>
