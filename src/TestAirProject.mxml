@@ -13,8 +13,8 @@
 			<s:Label id="lbl" text="Bottom" fontWeight="bold" fontSize="22"  verticalCenter="{(this.height/2)-lbl.height}"  horizontalCenter="0"/>
 			
 			
-			<s:Label text="1111" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
-			<s:Label text="3333" fontWeight="bold" fontSize="22"  verticalCenter="0"/>		
+			<s:Label text="1111 333" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
+			<s:Label text="3333 111" fontWeight="bold" fontSize="22"  verticalCenter="0"/>		
 			
 			
 		</s:Group>
