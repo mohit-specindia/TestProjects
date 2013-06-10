@@ -19,8 +19,10 @@
 			<s:Label text="Tag 1.4" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
 			<s:Label text="Tag 1.4" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
 			
-			<s:Label text="Tag 1.6 Local Change" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
-			<s:Label text="Tag 1.6 Local Change 1" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
+
+			<s:Label text="Tag 1.6 New Local Change" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
+			<s:Label text="Tag 1.6 New Local Change 1" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
+
 			
 			
 			
