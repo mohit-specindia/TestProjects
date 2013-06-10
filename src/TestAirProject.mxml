@@ -19,6 +19,9 @@
 			<s:Label text="Tag 1.4" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
 			<s:Label text="Tag 1.4" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
 			
+			<s:Label text="Tag 1.6" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
+			<s:Label text="Tag 1.6" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
+			
 			
 			
 		</s:Group>
