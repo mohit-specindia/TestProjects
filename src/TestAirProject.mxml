@@ -20,7 +20,7 @@
 			<s:Label text="Tag 1.4" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
 			
 			<s:Label text="Tag 1.6 New Local Change 22 22" fontWeight="bold" fontSize="22" horizontalCenter="0" verticalCenter="0"/>
-			<s:Label text="Tag 1.6 New Local Change 22 1 2 3" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
+			<s:Label text="Tag 1.6 New Local Change 22 1 2 3 4" fontWeight="bold" fontSize="22"  verticalCenter="0"/>
 			
 		</s:Group>
 	</s:BorderContainer>
